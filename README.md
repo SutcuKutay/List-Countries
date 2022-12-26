@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Proje Açıklaması:
+ReactJS kullanılarak oluşturulmuş bir "Ülke Listeleme" web sayfasıdır. API kullanılır.
 
 ## Available Scripts
 
